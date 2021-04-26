@@ -4,10 +4,9 @@ body{
     opacity: 0.9;
     padding: 20px;
 }
-@media(min-width: 992px)
- {
-     body
-    
+
+.h6{
+   color:#ABEBC6 ; 
 }
 
 .alinear{
@@ -19,19 +18,24 @@ body{
     color:white
 }
 .margen-contacto{
-    margin-top: -130px;
+    margin-top: -270px;
 }
 @media(min-width: 992px)
  {
-     .margen-contacto
+     .margen-contacto{
+
+     }
     
 }
 .margen-acerca{
-    margin-top: -130px;
+    margin-top: -300px;
+    margin-left: 100px;
 }
 @media(min-width: 992px)
  {
-     .margen-acerca
+     .margen-acerca{
+
+     }
     
 }
 
@@ -42,7 +46,9 @@ body{
   }
   @media(min-width: 992px)
   {
-      .portada img.izquierda
+      .portada img.izquierda{
+
+      }
      
  }  
 
@@ -57,7 +63,9 @@ body{
 }
 @media(min-width: 992px)
 {
-    .parrafo
+    .parrafo{
+
+    }
    
 }  
 
@@ -68,7 +76,9 @@ body{
 }
 @media(min-width: 992px)
 {
-    .centrado
+    .centrado{
+
+    }
    
 }  
 .centrado2{
@@ -76,9 +86,13 @@ body{
 }
 @media(min-width: 992px)
 {
-    .centrado2
+    .centrado2{
+
+    }
    
 }  
+
+
 /* estilo para barra lateral del menu*/
 .barra-lateral{
     background-color: #262a34;
@@ -89,7 +103,9 @@ body{
 }
 @media(min-width: 992px)
 {
-    .barra-lateral
+    .barra-lateral{
+
+    }
    
 }  
 .barra-lateral a{
@@ -135,7 +151,9 @@ body{
 }
 @media(min-width: 992px)
 {
-    .barra-lateral .menu a
+    .barra-lateral .menu a{
+
+    }
    
 }  
 
@@ -147,7 +165,8 @@ body{
     margin-right: 40px;
     font-weight: normal;
 }
-@media(min-width: 992px)
-{
-    .barra-lateral .menu a i  
+@media(min-width: 992px){
+    .barra-lateral .menu a i{
+
+    }  
 }  
