@@ -1,0 +1,153 @@
+body{
+    margin-bottom: 10px;
+    background-color:#12435e;
+    opacity: 0.9;
+    padding: 20px;
+}
+@media(min-width: 992px)
+ {
+     body
+    
+}
+
+.alinear{
+    margin-bottom: 50px;
+}
+
+.border{
+    border-top: 2px ;
+    color:white
+}
+.margen-contacto{
+    margin-top: -130px;
+}
+@media(min-width: 992px)
+ {
+     .margen-contacto
+    
+}
+.margen-acerca{
+    margin-top: -130px;
+}
+@media(min-width: 992px)
+ {
+     .margen-acerca
+    
+}
+
+.portada img.izquierda {
+   text-align: right;
+    
+    
+  }
+  @media(min-width: 992px)
+  {
+      .portada img.izquierda
+     
+ }  
+
+.titulo{
+    color: #0b8b6e;
+    
+}
+   
+.parrafo{
+    color:white;
+    padding:10px
+}
+@media(min-width: 992px)
+{
+    .parrafo
+   
+}  
+
+.centrado{
+    padding-bottom:20px;
+    text-align: center;
+    
+}
+@media(min-width: 992px)
+{
+    .centrado
+   
+}  
+.centrado2{
+    margin-bottom:-200px;
+}
+@media(min-width: 992px)
+{
+    .centrado2
+   
+}  
+/* estilo para barra lateral del menu*/
+.barra-lateral{
+    background-color: #262a34;
+    color:white;
+    min-width:100px;
+    min-height: 50vh;
+    padding:0;
+}
+@media(min-width: 992px)
+{
+    .barra-lateral
+   
+}  
+.barra-lateral a{
+    color:#fff;
+}
+
+/* estilo para logo*/
+
+.barra-lateral .logo{
+    background: #0275db;
+    margin-bottom: 2px;
+
+}
+@media(min-width: 992px)
+{
+    .barra-lateral .logo
+   
+}  
+
+.barra-lateral .logo h5{
+    font-size: 30px;
+    font-family: 'roboto',sans-serif;
+    padding: 20px 0;
+    text-align: center;
+    font-weight: 300px;
+    margin: 0;
+}
+@media(min-width: 992px)
+{
+    .barra-lateral .logo h5
+   
+}  
+
+/* estilo para el menu */
+
+.barra-lateral .menu a{
+    display: block;
+    padding: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 500;
+    border-bottom: 1px solid rgba(255,255,255,.1);
+
+}
+@media(min-width: 992px)
+{
+    .barra-lateral .menu a
+   
+}  
+
+.barra-lateral .menu a:hover{
+    background-color:#00fcff;
+    text-decoration: none;
+}
+.barra-lateral .menu a i{
+    margin-right: 40px;
+    font-weight: normal;
+}
+@media(min-width: 992px)
+{
+    .barra-lateral .menu a i  
+}  
