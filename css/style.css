@@ -93,6 +93,7 @@ body{
 }  
 
 
+
 /* estilo para barra lateral del menu*/
 .barra-lateral{
     background-color: #262a34;
@@ -121,7 +122,9 @@ body{
 }
 @media(min-width: 992px)
 {
-    .barra-lateral .logo
+    .barra-lateral .logo{
+
+    }
    
 }  
 
@@ -135,7 +138,9 @@ body{
 }
 @media(min-width: 992px)
 {
-    .barra-lateral .logo h5
+    .barra-lateral .logo h5{
+
+    }
    
 }  
 
@@ -170,3 +175,13 @@ body{
 
     }  
 }  
+
+/* opacidad de imagen*/
+
+.opacity{
+    opacity: .7;
+}
+
+.backcolor{
+    background-color:;
+}
